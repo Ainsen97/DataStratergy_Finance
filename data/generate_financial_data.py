@@ -5,8 +5,8 @@ Financial Data Generator with Data Quality Issues
 This script generates 20,000 unique financial records across multiple relational tables
 with intentional data quality issues to simulate real-world scenarios.
 
-Author: Data Strategy Finance Project
-Date: 2024
+Author: Data Strategy Finance Project (Ai Assisted) 
+Date: 2025
 """
 
 import pandas as pd
